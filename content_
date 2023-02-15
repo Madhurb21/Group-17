@@ -1,0 +1,32 @@
+Aircraft accidents
+Objective
+preparing data-set
+posing questions
+loading the data set and idea behind visualization
+construction of  shinny app individually and merging the codes after
+describing the shinny app left panel and right/main panel
+conclusion
+
+Data description
+We are working with deadliest aircraft accidents and incidents data-set.
+Source : https://en.wikipedia.org/wiki/List_of_deadliest_aircraft_accidents_and_incidents#:~:text=The%20most%20fatalities%20in%20any,747s%20collided%20on%20a%20runway.
+The final data set consists of 544 observations and 8 variables.
+At first the dataset consist of 555 observations of 13 variables, then we eliminated 11 obervations and 5 variables since data corresponding to these cells were missing .
+----------------------------------------------------------------------------------------------------------------------------
+Preparing Data
+----------------------------------------------------------------------------------------------------------------------------
+Choosing the data-set of common interest
+scraping the data-set
+converting the dataset to  workable dataframe
+cleaning the data-set(what problem we saw and decided to clean)
+even after cleaning we were unable to work with dataset so we applied sapply to convert into numeric
+cleaning ,converting 
+changing the column names
+finally storing the data as Airplane_crashes.Rdata file
+
+Loading the Data set and visualization
+since the data is stored in .Rdata file we therefore load the data using load( ) 
+after loading the data set we plot the required visualization using ggplot2 library
+1. Sonali: describe your visualization, and problems you faced
+2. Madhur:describe your visualization, and problems you faced
+3. Sambit:describe your visualization, and problems you faced
