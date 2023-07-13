@@ -13,7 +13,7 @@ Guides to run codes.
 4. final_df is our final dataframe which we used in our analysis.
 
 
-Plz make sure all these libraries are loaded.
+Please make sure all these libraries are loaded.
 
 libraries  used
 ***shiny, shinydashboard, countrycode, rworldmap,
